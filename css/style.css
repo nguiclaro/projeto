@@ -128,13 +128,13 @@ div #largura-irina{
     position: relative;
     background-color: #297e4fc2;
     margin: 10px 0px 20px px;
-    padding-bottom: 40.5%;
+    padding: 29%;
 }
 .iframe-video{
     margin: 0px 0px 10px 0px;
     position: absolute;
     width: 98%;
-    height: 98%;
+    height: 99%;
     top: 1%;
     left: 1%;
 }

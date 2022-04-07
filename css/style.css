@@ -20,9 +20,11 @@ body{
 }
 .topo{
     background-image: linear-gradient(#34BE72, #1A5C38);
-    width: 100%;
+    max-width: 100%;
+    min-width: 400px;
 }
 .titulo-topo{
+    text-align: center;
     margin: auto;
     padding-bottom: 5px;
     padding-top: 10px;
@@ -33,6 +35,7 @@ body{
     
 }
 header .frase-efeito{
+    text-align: center;
     display: block;
     color: beige;
     font-style: normal;

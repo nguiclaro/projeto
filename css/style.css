@@ -20,10 +20,10 @@ body{
 }
 .topo{
     background-image: linear-gradient(#34BE72, #1A5C38);
-    margin: auto;
     width: 100%;
 }
 .titulo-topo{
+    margin: auto;
     padding-bottom: 5px;
     padding-top: 10px;
     font-family: 'Poppins', sans-serif;
